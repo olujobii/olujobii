@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Ifeoluwa Demilade  
+# 👋 Hi there! I'm Ifeoluwa Olujobi  
 
 ☁ **Software Developer(Backend)** 
 
@@ -6,11 +6,9 @@
 
 ### 👨‍💻 About Me
 
-A young developer curious about building backend software solutions with Java
-
-🌱 **Currently Learning**:  
-- **Java** - To build backend systems
-
+- Backend developer building reliable and secure backend systems.
+- Main backend programming language is Java.
+- I am deeply interested in building and understanding backend systems that serve millions of users.
 
 ---
 
