@@ -12,11 +12,6 @@
 
 ---
 
-<img alt='My Stats'  src='https://github-readme-stats.vercel.app/api?username=olujobii&show_icons=true&theme=dark'/>
-<img alt='Top Languages'  src='https://github-readme-stats.vercel.app/api/top-langs/?username=olujobii&layout=compact'/>
-
----
-
 ### 📫 Connect with Me  
 - **Twitter**: [@_olujobi](https://x.com/_olujobi)  
 - **Email**: ifeoluwaolujobi@gmail.com
